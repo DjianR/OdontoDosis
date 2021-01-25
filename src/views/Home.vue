@@ -1,7 +1,6 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/odontomil.jpg" />
-    <PharmaList/>
     <!-- <HelloWorld msg="Farmacos"/> -->
   </div>
 </template>
@@ -16,9 +15,7 @@ import PharmaList from '../components/PharmaList.vue';
 export default {
   name: "Home",
   components: {
-    HelloWorld,
-    PharmaList
-
+    HelloWorld
   },
 };
 </script>
