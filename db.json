@@ -1,0 +1,72 @@
+[
+{
+"Nombre": "Paracetamol:",
+"Categoría": "Analgesicos",
+"Descripción": "El paracetamol posee propiedades analgésicas y antipiréticas parecidas a las de la aspirina pero no tiene actividad antiinflamatoria, ni ejerce ningún efecto antiplaquetario. El paracetamol se utiliza en el tratamiento del dolor moderado agudo y crónico, y es considerado como el analgésico de elección por la mayor parte de los autores en los pacientes de más de 50 años.Se desconoce el mecanismo exacto de la acción del paracetamol aunque se sabe que actúa a nivel central. Se cree que el paracetamol aumenta el umbral al dolor inhibiendo las ciclooxigenasas en el sistema nervioso central, enzimas que participan en la síntesis de las prostaglandinas. Sin embargo, el paracetamol no inhibe las ciclooxigenasas en los tejidos periféricos, razón por la cual carece de actividad antiinflamatoria.",
+"Indicación adulto": "Adulto: Paracetamol 500 mg comp. Tomar 2 cada 8 horas por 3-5 días",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Nistatina",
+"Categoría": "Antifúngico",
+"Descripción": "La nistatina es un antibiótico antifúngico tópico, muy parecida a la anfotericina B. La nistatina regular no se usa para tratar infecciones fúngicas sistémicas, debido a su absorción insignificante en el tracto gastrointestinal y su toxicidad. Aunque la nistatina regular se ha recomendado para el tratamiento de las infecciones por dermatofitos tales como tinea capitis, es eficaz sólo contra las especies de Candida y es más útil en el tratamiento la candidiasis de la orofaringe, cutánea, mucocutánea, y vulvovaginal. La nistatina liposomal puede tener actividad contra Aspergillus.",
+"Indicación adulto": "100.000 UI comprimidos dispersables",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Penicilina g",
+"Categoría": "Antibioticos betalactamicos",
+"Descripción": "La penicilina G es un agente de elección o para el tratamiento de infecciones por Streptococcus pyogenes, S. pneumoniae, e enterococo, aunque están aumentando en todo el mundo las cepas resistentes. A pesar de ellos, la penicilina G se considera el fármaco de elección para el tratamiento de la infección treponémica.",
+"Indicación adulto": "Adulto: 2-4 millones de UI cada 8 horas Administracion endovenosa",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Penicilina g benzatina",
+"Categoría": "Antibioticos betalactamicos",
+"Descripción": "Esta forma se administra solamente por vía intramuscular. En el sitio de la inyección IM se forma un depósito a partir del cual se libera lentamente el fármaco activo pasando a la circulación sistémica. Las concentraciones séricas de penicilina son menores, pero más prolongadas con la forma benzatina que con la penicilina procaina, detectándose niveles séricos de penicilina G hasta un máximo de 30 días después de la administración. Se pueden detectar concentraciones de penicilina en orina hasta 12 semanas después de una dosis única IM de 1,2 millones de unidades.",
+"Indicación adulto": "Adulto: 1.200.000 UI Administracion Intramuscular",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Amoxicilina",
+"Categoría": "Antibioticos betalactamicos",
+"Descripción": "La amoxicilina tiene un espectro de actividad antibacteriana superior al de la penicilina, si bien no es estable frente a las beta-lactamasas. Los antibióticos beta-lactámicos como la amoxicilina son bactericidas. Actúan inhibiendo la última etapa de la síntesis de la pared celular bacteriana uniéndose a unas proteínas específicas llamadas PBPs (Penicillin-Binding Proteins) localizadas en la pared celular. Al impedir que la pared celular se construya correctamente, la amoxicilina ocasiona, en último término, la lisis de la bacteria y su muerte. La amoxicilina no resiste la acción hidrolítica de las beta-lactamasas de muchos estafilococos, por lo que no se usa en el tratamiento de estafilococias. Aunque la amoxicilina es activa frente a los estreptococos, muchas cepas se están volviendo resistentes mediante mecanismos diferentes de la inducción de b-lactamasas, por lo que la adición de ácido clavulánico no aumenta la actividad de la amoxicilina frente a estas cepas resistentes. Dado que muchos otros gérmenes se están volviendo resistentes a la amoxicilina, se recomienda realizar un antibiograma antes de instaurar un tratamiento con amoxicilina, siempre que ello sea posible.",
+"Indicación adulto": "Adulto: Amoxicilina 500 mg comp. Tomar 1 cada 8 horas por 7 días. / Amoxicilina 750 mg comp. Tomar 1 cada 8 horas por 7 días.",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Amoxicilina/Ac clavulanico",
+"Categoría": "Antibioticos betalactamicos",
+"Descripción": "Este medicamento es un tipo de antibiótico de la familia de las penicilinas, destinado a tratar enfermedades producidas por bacterias sensibles, y productores de betalactamasas demostrado por antibiograma, en diferentes partes del cuerpo tales como: el oído medio, piel, tejidos blandos, tracto genitourinario, tracto respiratorio superior e inferior. Este medicamento exige diagnóstico y supervisión médica.",
+"Indicación adulto": "Adulto: Amoxicilina 875 mg + Ác. Clavulánico 125 mg comp. Tomar 1 cada 12 horas por 10 días. / Amoxicilina 500 mg + Ác. Clavulánico 125 mg comp. Tomar 1 cada 12 horas por 10 días.",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Azitromicina",
+"Categoría": "Antibioticos macrolidos",
+"Descripción": "La azitromicina es un antibiótico macrólido semisintético activo in vitro frente a una amplia gama de microorganismos gram-positivos y gram-negativos, como: Aerobios gram-positivos, Aerobios gram-negativos, Anaerobios, Microorganismos causantes de enfermedades de transmisión sexual. la azitromicina se administra por vía oral e intravenosa. Después de la administración oral la absorción del antibiótico es rápida. La biodisponibilidad de las cápsulas es del 37%. Los alimentos reducen la biodisponibilidad del fármaco por lo que este se debe administrar una hora antes de las comidas o 2 horas después de las mismas. Los alimentos grasos aumentar las concentraciones séricas de azitromicina en comprimidos en un 23% aunque la AUC permanece sin alterar.",
+"Indicación adulto": "Adulto: Azitromicina 500 mg comp. Tomar 1 cada 24 hrs, por 5 días. Tomar 1 hora antes o 2 horas después de los alimentos.",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Flucloxacilina",
+"Categoría": "Antibioticos betalactamicos",
+"Descripción": "Tto. de infecciones causadas por organismos gram+ incluyendo infecciones por estafilococos productores de ß-lactamasas. Sus indicaciones incluyen: infecciones de piel y tejidos blandos (furúnculos, absceso, carbunco, furunculosis, celulitis; úlceras en piel, eccema y acné; heridas y quemaduras infectadas, protección para injertos de piel, otitis media y externa e impétigo); infecciones del tracto respiratorio (neumonía, absceso pulmonar, empiema, sinusitis faringitis y amigdalitis); otras infecciones causadas por organismos sensibles (osteomielitis, enteritis, endocarditis, infecciones del tracto urinario, meningitis y septicemia).",
+"Indicación adulto": "Adulto: Flucloxacilina 500 mg comp. Tomar 1 cada 8 hrs, por 7 días.",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Metronidazol",
+"Categoría": "Antibioticos nitroimidazol",
+"Descripción": "El metronidazol es un nitroimidazol con propiedades antibacterianas y antiprotozoarias, que se utiliza para tratar las infecciones producidas por Tricomonas vaginalis, así como las amebiasis y giardasis. Es uno de los fármacos más eficaces frente a las bacterias anaerobias y, en combinación con otros antibióticos, se utiliza para la erradicación del Helicobacter pylori. También es utilizado para el tratamiento de la enfermedad de Crohn, la diarrea asociada a los tratamientos antibióticos y la rosácea.",
+"Indicación adulto": "Adulto: Metronidazol 500 mg comp. Tomar 1 cada 8 hrs, por 7 días.",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+},
+{
+"Nombre": "Aciclovir",
+"Categoría": "Antiviral",
+"Descripción": "El aciclovir es el primer nuclósido purínico sintético con una actividad in vitro e in vivo inhibitoria de los virus herpes humanos incluyendo el virus herpes simple tipos 1 (HSV-1) y 2 (HSV-2), virus zoster de la varicela (VZV), virus de Epstein-Barr (EBV) y citomegalovirus (CMV). Los los cultivos de células, el aciclovir muestra la mayor actividad frente al HSV-1, seguidos del t HSV-2, VZV, EBV y CMV.",
+"Indicación adulto": "Adulto:",
+"Indicación Niño": "Niños: 91 D Suspensión 200mg/5mL. Mayores de 2 años 20 mg/ kg/ dosis, 4 dosis por 5 días. Menores 2 años mitad de la dosis"
+}
+]
