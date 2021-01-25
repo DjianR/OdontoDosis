@@ -1,23 +1,18 @@
 <template>
   <div>
     <h1>Aquí esta la lista de farmacos</h1>
+    <PharmaList />
   </div>
 </template>
 
 <script>
+import PharmaList from '../components/PharmaList.vue';
+
 export default {
-  methods: {
-    async consultarAPI() {
-      try {
-        const data = await fetch("https://jsonplaceholder.typicode.com/posts");
-        const array = await data.json();
-        console.log(array);
-      } catch {}
-    },
+  name : 'Farmacos',
+  components: {
+    PharmaList
   },
-  created:{
-    this.consultarAPI()
-  }
 };
 </script>
 
