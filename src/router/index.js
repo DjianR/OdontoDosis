@@ -17,7 +17,8 @@ const routes = [
   {
     path: '/farmacos/:id',
     name: 'DetalleFarmaco',
-    component: DetalleFarmaco
+    component: DetalleFarmaco,
+    props: true
   },
   {
     path: '/about',
@@ -28,6 +29,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   }
 ]
+
 
 const router = createRouter({
   history: createWebHistory(process.env.BASE_URL),
