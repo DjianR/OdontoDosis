@@ -1,13 +1,14 @@
 <template>
-  <ul>
-    <li v-for="(item, index) in farmacosArray" :key="item.index">
+
+  <ul class="list-group ml-3 mr-3" >
+    <li v-for="(item, index) in farmacosArray" :key="item.index" class="list-group-item">
       <router-link
         :to="{
           name: 'DetalleFarmaco',
           params: {
             id: index,
             nombre: item.nombre,
-            desc: item.descripción,
+            desc: item.desc,
             indA: item.indA,
             indN: item.indN,
             cat: item.cat
@@ -18,8 +19,8 @@
       </router-link>
     </li>
   </ul>
-  <button @click="traerDATA">Recargar farmacos</button>
-  <button @click="vamos">ir al primero</button>
+  <button class="mt-3 btn btn-primary" @click="traerDATA">Recargar farmacos</button>
+  <!-- <button @click="vamos">ir al primero</button> -->
 </template>
 
 <script>
